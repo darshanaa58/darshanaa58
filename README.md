@@ -7,7 +7,7 @@ AI and Data Science learner
 Computer Science and Information Technology
 
 * ✉️  You can contact me at [pokhreldarshana@gmail.com](mailto:pokhreldarshana@gmail.com)
-* 🧠  I'm learning Django and Deep Learning
+* 🧠  I'm currently learning Django and Deep Learning
 
 ### Skills
 
