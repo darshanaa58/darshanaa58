@@ -1,5 +1,5 @@
-Hi 👋 My name is Darshana Pokhrel
-=================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Darshana Pokhrel
+========================================================================================================================================
 
 AI and Data Science learner
 ---------------------------
@@ -25,6 +25,6 @@ Computer Science and Information Technology
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/darshanaa58"><img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanaa58&stroke=ec4899&background=000000&ring=000000&fire=000000&currStreakNum=ec4899&currStreakLabel=000000&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+<a href="http://www.github.com/darshanaa58"><img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanaa58&stroke=ffffff&background=831843&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/darshanaa58"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=darshanaa58&bg_color=000000&color=ec4899&line=0891b2&point=ec4899&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/darshanaa58"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=darshanaa58&bg_color=831843&color=ffffff&line=0891b2&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
